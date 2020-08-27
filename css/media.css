@@ -1,0 +1,622 @@
+/* Large devices */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* =====Banner Css link Start Here===== */
+    .banner-overly {
+        padding-top: 130px;
+        padding-bottom: 80px;
+    }
+
+    .banner-item h3 {
+        font-size: 46px;
+    }
+    /* =====Banner Css link End Here===== */
+
+    /* =====Purchase Css link Start Here===== */
+    .purchase-text h3 {
+        font-size: 24px;
+    }
+
+    .purchase-text p {
+        font-size: 17px;
+    }
+    /* =====Purchase Css link End Here===== */
+    
+    /* =====Video Css link Start Here===== */
+    .video-bg-overly {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    /* =====Video Css link End Here===== */
+
+
+
+    /* =====Fetures Css link Start Here===== */
+    .fetures-text p {
+        padding-bottom: 6px;
+    }
+    /* =====Fetures Css link End Here===== */
+}
+
+/* Medium devices */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* =====Header Css link Start Here===== */
+    .navbar-toggler {
+        border: none;
+    }
+
+    .navbar-toggler i {
+        font-size: 30px;
+        color: #ffffff;
+        padding: 5px 10px;
+        border: 1px solid #fff;
+        border-radius: 5px;
+    }
+
+    .navbar-nav {
+        background: rgb(58, 15, 2);
+        padding: 15px 0px;
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        padding-bottom: 10px;
+    }
+    /* =====Header Css link End Here===== */
+
+    /* =====Banner Css link Start Here===== */
+
+    .banner-overly {
+        padding-top: 150px;
+        padding-bottom: 50px;
+    }
+
+    .banner-item h4 {
+        font-size: 30px;
+    }
+
+    .banner-item h3 {
+        font-size: 44px;
+    }
+
+    .banner-item p {
+        font-size: 14px;
+    }
+
+    .banner-item a {
+        margin-top: 14px;
+    }
+    /* =====Banner Css link End Here===== */
+
+    /* =====Service Css link Start Here===== */
+    #service {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .service-responsive {
+        padding-bottom: 70px;
+    }
+
+    .service-item p {
+        font-size: 13px;
+    }
+    /* =====Service Css link End Here===== */
+
+    #idea {
+        padding-top: 50px;
+    }
+
+    .idea-text h3 {
+        font-size: 26px;
+    }
+
+    .idea-text p {
+        font-size: 14px;
+    }
+
+    .purchase-text {
+        text-align: center;
+    }
+
+    .purchase-text h3 {
+        font-size: 26px;
+    }
+
+    .purchase-text p {
+        font-size: 16px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .purchase-link {
+        margin-right: 33%;
+    }
+    /* =====Idea Css link End Here===== */
+
+    /* =====Project Css link Start Here===== */
+    #project {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    /* =====Project Css link End Here===== */
+    
+    /* =====Video Css link Start Here===== */
+    .video-bg-overly {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    /* =====Video Css link End Here===== */
+
+    /* =====Excellent Css link End Here===== */
+    .excellent-text {
+        text-align: center;
+    }
+
+    .fetures-text {
+        margin-left: 30px;
+    }
+
+    .fetures-text p {
+        padding-bottom: 10px;
+    }
+    /* =====Excellent Css link End Here===== */
+
+    /* =====Post Css link Start Here===== */
+    #post {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    /* =====Post Css link End Here===== */
+    
+    /* =====Footer Css link Start Here===== */
+    #footer {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .footer-item {
+        text-align: center;
+    }
+
+    .footer-end-left {
+        text-align: center;
+    }
+
+    .footer-end-right p {
+        padding-right: 186px;
+    }
+
+    .footer-responsive {
+        padding-left: 30px;
+    }
+    /* =====Footer Css link End Here===== */
+}
+
+/* Small devices */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* =====Header Css link Start Here===== */
+    .navbar-toggler {
+        border: none;
+    }
+
+    .navbar-toggler i {
+        font-size: 30px;
+        color: #ffffff;
+        padding: 5px 10px;
+        border: 1px solid #fff;
+        border-radius: 5px;
+    }
+
+    .navbar-nav {
+        background: rgb(58, 15, 2);
+        padding: 15px 0px;
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        padding-bottom: 10px;
+    }
+    /* =====Header Css link End Here===== */
+
+    /* =====Banner Css link Start Here===== */
+
+    .banner-overly {
+        padding-top: 150px;
+        padding-bottom: 50px;
+    }
+
+    .banner-item h4 {
+        font-size: 30px;
+    }
+
+    .banner-item h3 {
+        font-size: 44px;
+    }
+
+    .banner-item p {
+        font-size: 14px;
+    }
+
+    .banner-item a {
+        margin-top: 14px;
+    }
+    /* =====Banner Css link End Here===== */
+
+    /* =====Service Css link Start Here===== */
+    #service {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .service-responsive {
+        padding-bottom: 70px;
+    }
+
+    .service-item p {
+        font-size: 13px;
+    }
+    /* =====Service Css link End Here===== */
+
+    /* =====Idea Css link Start Here===== */
+    #idea {
+        padding-top: 50px;
+    }
+
+    .idea-text h3 {
+        font-size: 26px;
+    }
+
+    .idea-text p {
+        font-size: 14px;
+    }
+
+    .purchase-text {
+        text-align: center;
+    }
+
+    .purchase-text h3 {
+        font-size: 26px;
+    }
+
+    .purchase-text p {
+        font-size: 16px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .purchase-link {
+        margin-right: 33%;
+    }
+    /* =====Idea Css link End Here===== */
+
+    /* =====Project Css link Start Here===== */
+    #project {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .project-title p {
+        font-size: 14px;
+    }
+
+    .project-btn button {
+        padding: 8px 25px;
+        margin: 3px 2px;
+    }
+    /* =====Project Css link End Here===== */
+
+    /* =====Video Css link Start Here===== */
+    .video-bg-overly {
+        padding-top: 100px;
+        padding-bottom: 120px;
+    }
+
+    .video-item h3 {
+        font-size: 38px;
+    }
+
+    .video-item p {
+        font-size: 14px;
+    }
+
+    .excellent-text {
+        padding-top: 45px;
+    }
+
+    .excellent-text h3 {
+        font-size: 36px;
+        padding-bottom: 18px;
+    }
+
+    .excellent-text p {
+        font-size: 14px;
+        padding-bottom: 26px;
+    }
+
+    .fetures-text {
+        padding-left: 0px;
+    }
+
+    .fetures-text i {
+        margin-right: 3px;
+    }
+
+    .fetures-text p {
+        padding-bottom: 5px;
+    }
+    /* =====Video Css link End Here===== */
+
+    /* =====Project Css link Start Here===== */
+    #project-counter {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .project-counter-responsive {
+        padding-bottom: 60px;
+    }
+
+    .project-item-text h3 {
+        font-size: 15px;
+        padding-bottom: 2px;
+    }
+
+    .project-item-text p {
+        font-size: 12px;
+    }
+    /* =====Project Css link End Here===== */
+
+    /* =====Video Css link Start Here===== */
+    .video-bg-overly {
+        padding-top: 50px;
+        padding-bottom:50px;
+    }
+    /* =====Video Css link End Here===== */
+
+    /* =====Excellent Css link Start Here===== */
+    .fetures-text p {
+        padding-bottom: 13px;
+    }
+    /* =====Excellent Css link End Here===== */
+
+    /* =====Post Css link Start Here===== */
+    #post {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    /* =====Post Css link End Here===== */
+    
+    /* =====Client Css link Start1 Here===== */
+    .client-overly {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    /* =====Client Css link End Here===== */
+
+    /* =====Footer Css link Start Here===== */
+    #footer {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .footer-item {
+        text-align: center;
+    }
+
+    .footer-end-left p {
+        text-align: center;
+    }
+
+    .footer-end-right p {
+        text-align: center;
+    }
+    /* =====Footer Css link End Here===== */
+
+
+}
+
+/* Extra small */
+@media (max-width: 575.98px) {
+    /* =====Header Css link Start Here===== */
+    .navbar-toggler {
+        border: none;
+    }
+
+    .navbar-toggler i {
+        font-size: 30px;
+        color: #ffffff;
+        padding: 5px 10px;
+        border: 1px solid #fff;
+        border-radius: 5px;
+    }
+
+    .navbar-nav {
+        background: rgb(58, 15, 2);
+        padding: 15px 0px;
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        padding-bottom: 10px;
+    }
+    /* =====Header Css link End Here===== */
+
+    /* =====Banner Css link Start Here===== */
+
+    .banner-overly {
+        padding-top: 150px;
+        padding-bottom: 50px;
+    }
+
+    .banner-item h4 {
+        font-size: 30px;
+    }
+
+    .banner-item h3 {
+        font-size: 44px;
+    }
+
+    .banner-item p {
+        font-size: 14px;
+    }
+
+    .banner-item a {
+        margin-top: 14px;
+    }
+    /* =====Banner Css link End Here===== */
+
+    /* =====Service Css link Start Here===== */
+    #service {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .service-responsive {
+        padding-bottom: 70px;
+    }
+    /* =====Service Css link End Here===== */
+    
+    /* =====Idea Css link Start Here===== */
+    #idea {
+        padding-top: 50px;
+    }
+
+    .idea-text h3 {
+        font-size: 26px;
+    }
+
+    .idea-text p {
+        font-size: 14px;
+    }
+
+    .purchase-text {
+        text-align: center;
+    }
+
+    .purchase-text h3 {
+        font-size: 26px;
+    }
+
+    .purchase-text p {
+        font-size: 16px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .purchase-link {
+        margin-right: 33%;
+    }
+    /* =====Idea Css link End Here===== */
+
+    /* =====Project Css link Start Here===== */
+    #project {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .project-title p {
+        font-size: 14px;
+    }
+
+    .project-btn button {
+        padding: 8px 25px;
+        margin: 3px 2px;
+    }
+    /* =====Project Css link End Here===== */
+
+    /* =====Video Css link Start Here===== */
+    .video-bg-overly {
+        padding-top: 100px;
+        padding-bottom: 120px;
+    }
+
+    .video-item h3 {
+        font-size: 38px;
+    }
+
+    .video-item p {
+        font-size: 14px;
+    }
+
+    .excellent-text {
+        padding-top: 45px;
+    }
+
+    .excellent-text h3 {
+        font-size: 36px;
+        padding-bottom: 18px;
+    }
+
+    .excellent-text p {
+        font-size: 14px;
+        padding-bottom: 26px;
+    }
+
+    .fetures-text {
+        padding-left: 0px;
+    }
+
+    .fetures-text i {
+        margin-right: 3px;
+    }
+
+    .fetures-text p {
+        padding-bottom: 5px;
+    }
+    /* =====Video Css link End Here===== */
+
+    /* =====Project Counter Css link Start Here===== */
+    #project-counter {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .project-counter-responsive {
+        padding-bottom: 60px;
+    }
+    /* =====Project Counter Css link End Here===== */
+
+    /* =====Recent Post Css link End Here===== */
+    #post {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .post-title h3 {
+        font-size: 36px;
+        padding-bottom: 17px;
+    }
+
+    .post-title p {
+        font-size: 14px;
+    }
+
+    .post-item-text h3 {
+        font-size: 17px;
+        padding-bottom: 2px;
+    }
+    /* =====Recent Post Css link End Here===== */
+
+    /* =====Client Css link Start Here===== */
+    .client-overly {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    /* =====Client Css link End Here===== */
+
+    /* =====Footer Css link Start Here===== */
+    #footer {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .footer-item {
+        text-align: center;
+    }
+
+    .footer-end-right p {
+        text-align: left;
+    }
+    /* =====Footer Css link End Here===== */
+}
